@@ -1,4 +1,4 @@
 #
-inital 
+initial 
 
-SOme Description
+Some Description
